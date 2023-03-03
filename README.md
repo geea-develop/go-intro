@@ -1,6 +1,6 @@
 # Getting started with go language
 
-## Install go
+## [Install go](https://go.dev/doc/install)
 
 ## Enter directory and run
 ```
